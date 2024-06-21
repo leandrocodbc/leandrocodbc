@@ -14,7 +14,7 @@
  Redes Sociais 
 
  <p>
- <a href= "www.linkedin.com/in/leandro-schultz-3b2529232">
+ <a href= "linkedin.com/in/leandro-schultz-3b2529232">
  <img align= "left" alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  </p>
